@@ -28,7 +28,14 @@
 
 ## 4 how to use
 
+#### root
 ```
-docker pull openos365/openos365-10045-artixlinux-dinit-docker-main:latest
-docker run -it openos365/openos365-10045-artixlinux-dinit-docker-main:latest bash
+docker pull openos365/openos365-10045-artixlinux-dinit-docker-main-root:latest
+docker run -it openos365/openos365-10045-artixlinux-dinit-docker-main-root:latest bash
+```
+#### www
+
+```
+docker pull openos365/openos365-10045-artixlinux-dinit-docker-main-www:latest
+docker run -it openos365/openos365-10045-artixlinux-dinit-docker-main-www:latest bash
 ```
