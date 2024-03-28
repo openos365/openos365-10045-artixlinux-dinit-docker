@@ -2000,10 +2000,10 @@ chm2pdf.noarch                                                      0.9.1-13.el7
 chmlib.x86_64                                                       0.40-9.el7                                                    epel    
 chmlib-devel.x86_64                                                 0.40-9.el7                                                    epel    
 chrome-gnome-shell.x86_64                                           10.1-4.an7                                                    os      
-chromedriver.x86_64                                                 122.0.6261.111-1.el7                                          epel    
-chromium.x86_64                                                     122.0.6261.111-1.el7                                          epel    
-chromium-common.x86_64                                              122.0.6261.111-1.el7                                          epel    
-chromium-headless.x86_64                                            122.0.6261.111-1.el7                                          epel    
+chromedriver.x86_64                                                 122.0.6261.128-1.el7                                          epel    
+chromium.x86_64                                                     122.0.6261.128-1.el7                                          epel    
+chromium-common.x86_64                                              122.0.6261.128-1.el7                                          epel    
+chromium-headless.x86_64                                            122.0.6261.128-1.el7                                          epel    
 chrony.x86_64                                                       3.4-1.0.1.an7                                                 os      
 chrpath.x86_64                                                      0.16-0.an7                                                    os      
 cifs-utils.x86_64                                                   6.2-10.an7                                                    os      
@@ -12696,7 +12696,7 @@ perl-Data-Section-Simple.noarch                                     0.05-1.el7  
 perl-Data-Stream-Bulk.noarch                                        0.11-22.el7                                                   epel    
 perl-Data-TreeDumper.noarch                                         0.40-19.el7                                                   epel    
 perl-Data-Tumbler.noarch                                            0.005-2.el7                                                   epel    
-perl-Data-UUID.x86_64                                               1.219-3.el7                                                   epel    
+perl-Data-UUID.x86_64                                               1.227-1.el7                                                   epel    
 perl-Data-Uniqid.noarch                                             0.12-2.el7                                                    epel    
 perl-Data-Validate-IP.noarch                                        0.27-13.el7                                                   epel    
 perl-Data-Visitor.noarch                                            0.30-1.el7                                                    epel    
